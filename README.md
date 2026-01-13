@@ -23,30 +23,32 @@ If you have more refined and simplified code solutions, feel free to contact me 
 
 ### 安装依赖 / Install Dependencies
 
-Open the command line and run the following command:  
-打开命令行，执行以下命令安装依赖：
-```bash
-pip install requests pandas openpyxl
-
+ Open the command line and run the following command:  
+ 打开命令行，执行以下命令安装依赖：
+ ```bash
+ pip install requests pandas openpyxl
+ ```
 ### 快速开始 / Quick Start
 
-1. 克隆仓库 / Clone the Repository
+#### 1. 克隆仓库 / Clone the Repository
+
  git clone https://github.com/[你的GitHub用户名]/Douyu-rank-crawler.git
  cd Douyu-rank-crawler
- 
-2. 运行爬虫 / Run the Crawler
+
+#### 2. 运行爬虫 / Run the Crawler
+
  python Douyu-rank-crawler.py
  
-3. 查看结果 / Check Results
+#### 3. 查看结果 / Check Results
+
+ After running, the Excel file containing the ranking data will be generated in the project directory.
+ 运行完成后，项目目录下会生成包含排行榜数据的Excel文件。
  
-After running, the Excel file containing the ranking data will be generated in the project directory.
-运行完成后，项目目录下会生成包含排行榜数据的Excel文件。
- 
-许可证 / License
+### 许可证 / License
  
 This project is licensed under the MIT License - see the LICENSE file for details.
 本项目基于MIT许可证开源 - 详见LICENSE文件。
  
-联系作者 / Contact Author
+### 联系作者 / Contact Author
 
  - GitHub: https://github.com/SunXun888
